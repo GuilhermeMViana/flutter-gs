@@ -1,5 +1,7 @@
-# Hunting Words
+# Global Solution - Desenvolvimento Cross Platform
 
-A Hunting Words game app developed with flutter.
+## Equipe:
 
-![gameplay](images/gameplay1.jpg)
+Guilherme Muniz Viana RM:92954 \
+Nikolas De Oliveira Paspaltzis RM:92865 \
+Alexandre Ilha RM:88689

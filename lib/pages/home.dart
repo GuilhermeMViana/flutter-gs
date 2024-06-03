@@ -29,7 +29,8 @@ class _HomePageState extends State<HomePage> {
             ElevatedButton(
               onPressed: () => Navigator.of(context).pushNamed('/play'),
               child: const Text('Jogar'),
-            )
+            ),
+            const Image(image: AssetImage('assets/oceans20.png')),
           ],
         ),
       ),

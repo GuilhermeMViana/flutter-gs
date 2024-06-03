@@ -21,7 +21,11 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            const Text("Global Solution"),
+            const Text("Global Solution",
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24)),
+            const Text("Guilherme Muniz Viana RM:92954"),
+            const Text("Alexandre Ilha de Vilhena RM:88689"),
+            const Text("Nikolas de Oliveira Paspaltzis RM:92865"),
             ElevatedButton(
               onPressed: () => Navigator.of(context).pushNamed('/play'),
               child: const Text('Jogar'),
